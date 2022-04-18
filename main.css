@@ -1,0 +1,71 @@
+.navbar{
+    background-color: rgb(12, 47, 104);
+    height: 7vh;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.main{
+    margin: auto;
+    margin-top: 5%;
+    width: 50%;
+    border: 1px solid gray;
+    padding: 2%;
+    border-radius: 20px;
+}
+
+.titl{
+    text-align: center;
+    color: rgb(12, 47, 104);
+}
+
+.info{
+    text-align: center;
+    color: rgb(137, 131, 131);
+    font-size: 20px;
+}
+
+.frgt-paswd{
+    margin: auto;
+    margin-top: 5%;
+    width: 60%;
+}
+
+#specificSizeInputName{
+    width: 90%;
+    height: 5vh;
+    font-size: 20px;
+}
+
+.email{
+    font-size: 2rem;
+}
+
+.butn{
+    text-align: center;
+}
+
+.btn{
+    margin-top: 5%;
+    width: 88%;
+    color: rgb(12, 47, 104);
+}
+
+#back-arrow{
+    max-width: auto;
+    height: 30px;
+    margin-bottom: 1%;
+}
+
+.back a{
+    color: rgb(227, 189, 36);
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+.back{
+    text-align: center;
+    margin-top: 5%;
+}
